@@ -3,3 +3,4 @@ ipywidgets
 transformers[sentencepiece]
 pandas
 python-dotenv
+datasets
