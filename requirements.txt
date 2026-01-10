@@ -4,3 +4,4 @@ transformers[sentencepiece]
 pandas
 python-dotenv
 datasets
+accelerate
